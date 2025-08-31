@@ -22,7 +22,7 @@
 ---
 
 ## 📂 Projects
-- ![Volunteer Hub Website hosted via GitHub Pages](https://github.com/rswee/volunteer-page)
+- - [Volunteer Hub Website hosted via GitHub Pages](https://github.com/rswee/volunteer-page)
 - 
 
 ---
